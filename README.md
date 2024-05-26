@@ -1,4 +1,4 @@
-## EX5  LU Decomposition 
+# EX5  LU Decomposition 
 # Date:30.03.2024
 
 ## AIM:
